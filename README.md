@@ -7,13 +7,6 @@ These samples were created during my personal exploration of speech synthesis an
 - Understanding the capabilities and limitations of the model
 - Experimenting with reproducibility and inference parameters
 
-## 🔉 Sample Outputs
-> (Add direct links to Google Drive / GitHub-hosted audio files here)
-
-- [Female voice – prompt A](https://example.com)
-- [Male voice – prompt B](https://example.com)
-
----
 
 ## 📜 Credits
 
